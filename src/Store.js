@@ -65,6 +65,7 @@ function Store() {
               <div className="App-text-left">
               Sticker4 = 10$
            </div>
+           
 
 
                </div> 
